@@ -1,1 +1,1 @@
-from forest import DynamicForest
+from .forest import DynamicForest
