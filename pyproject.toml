@@ -3,7 +3,7 @@ requires = ['hatchling']
 build-backend = "hatchling.build"
 
 [project]
-name = "dynamic-forest"
+name = "dynamic_forest"
 version = "1.0.0"
 authors = [
     { name="Peter Macgregor", email="prm4@st-andrews.ac.uk" },
